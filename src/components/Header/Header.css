@@ -1,0 +1,33 @@
+/* .header {
+    width: 100%;
+    font-size: 2rem;
+    color: #2A77AE;
+    margin-bottom: 10px;
+  }
+   */
+  /* .title {
+    float: left;
+  } */
+  
+  /* .scores {
+    float: right;
+    margin-left: 900px;
+    margin-bottom:10px;
+    color: #2A77AE;
+  } */
+
+  .header {
+    width: 100%;
+    font-size: 2rem;
+    color: #2A77AE;
+    margin-bottom: 10px;
+  }
+  
+  .title {
+    float: left;
+  }
+  
+  .scores {
+    float: right;
+  }
+  
